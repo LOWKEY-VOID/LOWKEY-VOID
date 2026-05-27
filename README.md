@@ -1,3 +1,3 @@
 ## TUFF
 
-![Pacman Eating My Contributions](https://raw.githubusercontent.com/The-Chinese-Guy/The-Chinese-Guy/output/pacman-contribution-graph.svg)
+![Pacman Eating My Contributions](https://raw.githubusercontent.com/LOWKEY-VOID/LOWKEY-VOID/output/pacman-contribution-graph.svg)
